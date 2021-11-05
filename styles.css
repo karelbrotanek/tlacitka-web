@@ -1,0 +1,66 @@
+button:nth-child(1) {
+  background-color: #641E16;
+}
+
+button:nth-child(2) {
+  background-color: #922B21;
+}
+
+button:nth-child(3) {
+  background-color: #C0392B;
+}
+
+button:nth-child(4) {
+  background-color: #D98880;
+}
+
+button:nth-child(5) {
+  background-color: #4A235A;
+}
+
+button:nth-child(6) {
+  background-color: #6C3483;
+}
+
+button:nth-child(7) {
+  background-color: #8E44AD;
+}
+
+button:nth-child(8) {
+  background-color: #BB8FCE;
+}
+
+button:nth-child(9) {
+  background-color: #BB8FCE;
+}
+
+button:nth-child(10) {
+  background-color: #1B4F72;
+}
+
+button:nth-child(11) {
+  background-color: #2874A6;
+}
+
+button:nth-child(12) {
+  background-color: #3498DB;
+}
+
+button:nth-child(13) {
+  background-color: #85C1E9;
+}
+
+button:nth-child(14) {
+  background-color: #85C1E9;
+}
+
+button {
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+body {
+  color: black;
+}
+
+/*# sourceMappingURL=styles.css.map */

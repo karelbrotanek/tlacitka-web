@@ -1,0 +1,15 @@
+$rainbow: #641E16 #922B21 #C0392B #D98880 #4A235A #6C3483 #8E44AD #BB8FCE #BB8FCE #1B4F72 #2874A6 #3498DB #85C1E9 #85C1E9;
+@for $i from 1 through 14 {
+  button:nth-child(#{$i}) {
+    background-color: nth($rainbow, $i);
+  }
+}
+
+button {
+  font-family: 'Courier New';
+  font-size: 20px;
+}
+
+body {
+  color: black;
+}
